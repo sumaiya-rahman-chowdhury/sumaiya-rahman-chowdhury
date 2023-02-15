@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumaiya-rahman-chowdhury
 - 👀 I’m interested 
 - 🌱 I’m currently learning Front End and Back End FrameWork
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Ask me about HTML,CSS,JAVASCRIPT,REACT JS,JAVA
 - 📫 How to reach me sumaiyaprionty@gmail.com
 
 <!---
